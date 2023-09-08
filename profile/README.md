@@ -15,3 +15,8 @@ communicates with the intended users and maintainers. During a weekly laboratory
 session, students use state-of-the-art technology to complete projects,
 reporting on their results through both written documents and oral
 presentations.
+
+### Course Syllabus
+
+View the syllabus and course materials
+[here](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials).
